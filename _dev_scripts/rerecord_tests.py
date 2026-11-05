@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 aas-core3.1-golang AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 """Run all tests and re-record the golden data."""
 
 import argparse

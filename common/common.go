@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 aas-core3.1-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package common provides common functions shared among the other packages.
 package common
 

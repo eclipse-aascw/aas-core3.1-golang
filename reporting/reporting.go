@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 aas-core3.1-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package reporting provides structures and functions for reporting of errors.
 package reporting
 

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 aas-core3.1-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package verification allows you to verify model instances.
 //
 // The main function is [Verify].
